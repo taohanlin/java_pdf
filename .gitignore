@@ -1,0 +1,38 @@
+ipse
+.classpath
+.project
+.settings/
+.metadata/
+Servers/
+.recommenders/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+target/
+
+huapin.iml
+*.log
+*.class
+src/main/webapp/WEB-INF/class
+src/main/webapp/WEB-INF/classes
+
+ant
+bin/
+
+# STS
+.springBeans
+.externalToolBuilders
+
+*.bak
+
+logs/
+log/
+
+!**/src/main/bin
